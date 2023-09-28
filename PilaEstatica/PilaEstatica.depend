@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1694498332 source:d:\3sem\seminario estructuras de datos 1\pilaestatica\empleado.cpp
+	"Empleado.h"
+
+1695103826 d:\3sem\seminario estructuras de datos 1\pilaestatica\empleado.h
+	<string>
+	<iostream>
+
+1695916598 source:d:\3sem\seminario estructuras de datos 1\pilaestatica\pilaestatica.cpp
+	"PilaEstatica.h"
+
+1695105638 d:\3sem\seminario estructuras de datos 1\pilaestatica\pilaestatica.h
+	<string>
+	<iostream>
+	"Empleado.h"
+
+1695916724 source:d:\3sem\seminario estructuras de datos 1\pilaestatica\main.cpp
+	<iostream>
+	"PilaEstatica.h"
+
